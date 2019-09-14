@@ -1,0 +1,1 @@
+<i class="fas fa-mail-bulk"></i> E-mail
